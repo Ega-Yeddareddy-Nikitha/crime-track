@@ -62,7 +62,7 @@ Client-side functionality includes:
 - Form submission with validation
 - Crime data fetching and display
 - Search functionality
-- Table interaction (view details)
+- Table interaction (view details) 
 
 ## Backend Components
 

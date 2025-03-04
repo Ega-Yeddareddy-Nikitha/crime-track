@@ -1,3 +1,5 @@
+//Model for crime
+//Require the database connection
 const { getDB } = require('../config/db');
 
 const crimeSchema = {
